@@ -1,5 +1,4 @@
-````
-red
+````red
 class TheAlgosfx{
   constructor(...settings) {
     this.name = "Alp"
