@@ -8,5 +8,4 @@
     this.job = "developer"
     this.sex = "male"
   }
-}
-```
+}```
