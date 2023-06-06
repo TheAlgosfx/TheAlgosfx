@@ -1,4 +1,4 @@
-``class TheAlgosfx{
+````class TheAlgosfx{
   constructor(...settings) {
     this.name = "Alp"
     this.age = "19"
@@ -8,4 +8,4 @@
     this.job = "developer"
     this.sex = "male"
   }
-}``
+}````
