@@ -22,7 +22,7 @@ class TheAlgosfx{
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TheAlgosfx&repo=Algos-Bots)](https://https://github.com/TheAlgosfx/Algos-Bots)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheAlgosfx&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheAlgosfx)](https://github.com/TheAlgosfx/Algos-Bots)
 
